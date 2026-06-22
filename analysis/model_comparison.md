@@ -81,7 +81,7 @@ Independent Variables:
 * Marketing Spend
 * Footfall
 * Inventory Availability Percentage
-* Region_North
+* region_North
 
 ### Performance
 
@@ -93,7 +93,7 @@ Independent Variables:
 * Footfall
 * Inventory Availability Percentage
 
-Region_North was not statistically significant.
+region_North was not statistically significant.
 
 ### Business Usefulness
 
